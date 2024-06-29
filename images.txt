@@ -1,5 +1,5 @@
 nginx
-mysql
+mysql:8.4.0
 redis:6-alpine
 golang:1.22.3-alpine
 
