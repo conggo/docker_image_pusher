@@ -3,4 +3,5 @@ mysql:8.0
 mysql:8.4.0
 redis:6-alpine
 golang:1.22.3-alpine
+postgres:12.19
 
